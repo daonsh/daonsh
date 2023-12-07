@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 👨‍💻 All of my projects are available at [shauldaon.com - see screenshots](shauldaon.com - see screenshots)
+- 👨‍💻 All of my projects are available at [https://shauldaon.com](https://shauldaon.com)
 
-- 📝 I regularly write articles on [shauldaon.com](shauldaon.com)
+- 📝 I regularly write articles on [https://shauldaon.com](https://shauldaon.com)
 
 - 💬 Ask me about **complex software & data-driven algorithms**
 
