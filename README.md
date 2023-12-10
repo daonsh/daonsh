@@ -34,6 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daonsh&" alt="daonsh" /></p>
 
+<p>
 Topics that interest me:
 <a href="https://github.com/topics/chrome-extension">Chrome Extension</a>
 <a href="https://github.com/topics/database">Database</a>
@@ -46,3 +47,4 @@ Topics that interest me:
 <a href="https://github.com/topics/pwa">Progressive Web Apps - PWA</a>
 <a href="https://github.com/topics/python">Python</a>
 <a href="https://github.com/topics/scikit-learn">scikit learn - sklearn</a>
+</p>
