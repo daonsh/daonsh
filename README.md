@@ -33,3 +33,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daonsh&show_icons=true&locale=en" alt="daonsh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daonsh&" alt="daonsh" /></p>
+
+Topics that interest me:
+<a href="https://github.com/topics/chrome-extension">Chrome Extension</a>
+<a href="https://github.com/topics/database">Database</a>
+<a href="https://github.com/topics/docker">Docker</a>
+<a href="https://github.com/topics/emoji">Emoji</a>
+<a href="https://github.com/topics/algorithm">Algorithm</a>
+<a href="https://github.com/topics/kubernetes">Kubernetes</a>
+<a href="https://github.com/topics/mongodb">MongoDB</a>
+<a href="https://github.com/topics/pixel-art">Pixel Art</a>
+<a href="https://github.com/topics/pwa">Progressive Web Apps - PWA</a>
+<a href="https://github.com/topics/python">Python</a>
+<a href="https://github.com/topics/scikit-learn">scikit learn - sklearn</a>
