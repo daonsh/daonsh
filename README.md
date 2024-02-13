@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shaul Daon</h1>
 <h3 align="center">A software developer and solution engineer from Israel</h3>
 
+Open-source project example:
+CallMic - GCP code for conversational audio analysis - useful insights to learn about your phone calls.
+Link: <a href="https://github.com/CallMic/core">CallMic code</a>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daonsh&label=Profile%20views&color=0e75b6&style=flat" alt="daonsh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daonsh" alt="daonsh" /></a> </p>
