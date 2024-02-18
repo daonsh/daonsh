@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaul Daon</h1>
 <h3 align="center">A software developer and solution engineer from Israel</h3>
 
-Open-source project example:<br>
+Open-source project:<br>
 <b>CallMic</b> - GCP code for conversational audio analysis - useful insights to learn about your phone calls. Utilizes several Google Cloud APIs and services.
 Link: <a href="https://github.com/CallMic/core">CallMic full code</a>
 <br>
